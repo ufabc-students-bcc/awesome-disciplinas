@@ -1,8 +1,20 @@
 ## :pencil2: material de estudo pra te salvar das provas satânicas (ou não)
 
+<p align="center">
+![hackerman](https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
+<p/>
+
+<p align="center"
+
+[![GitHub forks](https://img.shields.io/github/forks/ufabc-students-bcc/disciplinas.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/network/)
+[![GitHub stars](https://img.shields.io/github/stars/ufabc-students-bcc/disciplinas.svg?style=social&label=Stars&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/ufabc-students-bcc/disciplinas.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/watchers) 
+>
+</p>
+
 ### :notebook: code of conduct + observações
 
-00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commit e inserções, tentem apenas manter o mínimo do senso de organização. Abraço, amamos vocês. Espero que isso lhe seja útil.
+00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commit e inserções, tentem apenas manter o mínimo do senso de organização. Abraços, amamos vocês. Espero que isso lhe seja útil.
 01. Disciplinas marcadas com :bomb: estão sendo ofertadas no quadrimestre vigente. 
 02. Não criei todos os repositórios para as disciplinas limitadas pq ia ser mt trampo, se alguém quiser se aventurar, boa sorte!
 03. Favor não inserir conteúdo com direitos autorais não permissivos. Sem pirataria no repositório. :-)
@@ -21,10 +33,10 @@
 [Algoritmos e Estruturas de Dados I](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-1/algoritmos-estrutura-dados-1.md) <br/>
 [Matemática Discreta](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/matematica-discreta/matematica-discreta.md) <br/>
 
+:bomb: [Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
 [Sistemas Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-digitais/sistemas-digitais.md) <br/>
 [Análise de Algoritmos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/analise-de-algoritmos/analise-de-algoritmos.md) <br/>
 [Programação Orientada à Objetos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-orientada-a-objetos/programacao-orientada-a-objetos.md) <br/>
-:bomb: [Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
 [Computadores, Ética e Sociedade](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computadores-etica-sociedade/computadores-etica-sociedade.md) <br/>
 
 :bomb: [Arquitetura de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
