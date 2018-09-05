@@ -12,43 +12,42 @@
 
 ### Disciplinas Obrigatórias do BCC
 
-[Lógica Básica]() <br/>
-[Programação Estruturada]() <br/>
+[Lógica Básica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/logica-basica/logica-basica.md) <br/>
+[Programação Estruturada](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-estruturada/programacao-estruturada.md) <br/>
 
-[Circuitos Digitais]()  <br/>
-[Algoritmos e Estruturas de Dados I]() <br/>
-[Matemática Discreta]() <br/>
+[Circuitos Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/circuitos-digitais/circuitos-digitais.md)  <br/>
+[Algoritmos e Estruturas de Dados I](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-1/algoritmos-estrutura-dados-1.md) <br/>
+[Matemática Discreta](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/matematica-discreta/matematica-discreta.md) <br/>
 
-[Sistemas Digitais]() <br/>
-[Análise de Algoritmos]() <br/>
-[Programação Orientada à Objetos]() <br/>
-[Álgebra Linear]() <br/>
-[Computadores, Ética e Sociedade]() <br/>
+[Sistemas Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-digitais/sistemas-digitais.md) <br/>
+[Análise de Algoritmos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/analise-de-algoritmos/analise-de-algoritmos.md) <br/>
+[Programação Orientada à Objetos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-orientada-a-objetos/programacao-orientada-a-objetos.md) <br/>
+[Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
+[Computadores, Ética e Sociedade](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computadores-etica-sociedade/computadores-etica-sociedade.md) <br/>
 
-[Arquitetura de Computadores]() <br/>
-[Algoritmos e Estruturas de Dados II]() <br/>
-[Teoria dos Grafos]()  <br/>
-[Banco de Dados]() <br/>
-[Inteligência Artificial]() <br/>
+[Arquitetura de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
+[Algoritmos e Estruturas de Dados II](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-2/algoritmos-estrutura-dados-2.md) <br/>
+[Teoria dos Grafos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/teoria-dos-grafos/teoria-dos-grafos.md)  <br/>
+[Banco de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/banco-de-dados/banco-de-dados.md) <br/>
+[Inteligência Artificial](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/inteligencia-artificial/inteligencia-artificial.md) <br/>
 
-[Redes de Computadores]() <br/>
-[Sistemas Operacionais]() <br/>
-[Linguagens Formais e Autômata]() <br/>
-[Engenharia de Software]() <br/>
+[Redes de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/redes-de-computadores/redes-de-computadores.md) <br/>
+[Sistemas Operacionais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-operacionais/sistemas-operacionais.md) <br/>
+[Linguagens Formais e Autômata](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/linguagens-formais-e-automata/linguagens-formais-e-automata.md) <br/>
+[Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/engenharia-de-software/engenharia-de-software.md) <br/>
 
-[Sistemas Distribuidos]() <br/>
-[Compiladores]() <br/>
-[Paradigmas de Programação]() <br/>
+[Sistemas Distribuidos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-distribuidos/sistemas-distribuidos.md) <br/>
+[Compiladores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/compiladores/compiladores.md) <br/>
+[Paradigmas de Programação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/paradigmas-de-programacao/paradigmas-de-programacao.md) <br/>
 
-[Computação Gráfica]() <br/>
-[Programação Matemática]() <br/>
+[Computação Gráfica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computacao-grafica/computacao-grafica.md) <br/>
+[Programação Matemática](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-matematica/programacao-matematica.md) <br/>
 
-[Segurança de Dados]() <br/>
+[Segurança de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/seguranca-de-dados/seguranca-de-dados.md) <br/>
 
 ### Disciplinas Limitadas do BCC
 
-[]()
-[]()
+
 []()
 []()
 []()
