@@ -20,52 +20,52 @@
 
 ### :computer: disciplinas obrigatórias do BCC
 
-:bomb: [Lógica Básica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/logica-basica/logica-basica.md) <br/>
-:bomb: [Programação Estruturada](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-estruturada/programacao-estruturada.md) <br/>
+:bomb: [Lógica Básica](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/logica-basica/logica-basica.md) <br/>
+:bomb: [Programação Estruturada](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/programacao-estruturada/programacao-estruturada.md) <br/>
 
-[Circuitos Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/circuitos-digitais/circuitos-digitais.md)  <br/>
-[Algoritmos e Estruturas de Dados I](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-1/algoritmos-estrutura-dados-1.md) <br/>
-[Matemática Discreta](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/matematica-discreta/matematica-discreta.md) <br/>
+[Circuitos Digitais](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/circuitos-digitais/circuitos-digitais.md)  <br/>
+[Algoritmos e Estruturas de Dados I](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-1/algoritmos-estrutura-dados-1.md) <br/>
+[Matemática Discreta](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/matematica-discreta/matematica-discreta.md) <br/>
 
-:bomb: [Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
-[Sistemas Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-digitais/sistemas-digitais.md) <br/>
-[Análise de Algoritmos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/analise-de-algoritmos/analise-de-algoritmos.md) <br/>
-[Programação Orientada à Objetos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-orientada-a-objetos/programacao-orientada-a-objetos.md) <br/>
-[Computadores, Ética e Sociedade](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computadores-etica-sociedade/computadores-etica-sociedade.md) <br/>
+:bomb: [Álgebra Linear](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
+[Sistemas Digitais](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/sistemas-digitais/sistemas-digitais.md) <br/>
+[Análise de Algoritmos](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/analise-de-algoritmos/analise-de-algoritmos.md) <br/>
+[Programação Orientada à Objetos](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/programacao-orientada-a-objetos/programacao-orientada-a-objetos.md) <br/>
+[Computadores, Ética e Sociedade](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/computadores-etica-sociedade/computadores-etica-sociedade.md) <br/>
 
-:bomb: [Arquitetura de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
-:bomb: [Algoritmos e Estruturas de Dados II](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-2/algoritmos-estrutura-dados-2.md) <br/>
-:bomb: [Teoria dos Grafos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/teoria-dos-grafos/teoria-dos-grafos.md)  <br/>
-:bomb: [Banco de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/banco-de-dados/banco-de-dados.md) <br/>
-:bomb: [Inteligência Artificial](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/inteligencia-artificial/inteligencia-artificial.md) <br/>
+:bomb: [Arquitetura de Computadores](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
+:bomb: [Algoritmos e Estruturas de Dados II](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-2/algoritmos-estrutura-dados-2.md) <br/>
+:bomb: [Teoria dos Grafos](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/teoria-dos-grafos/teoria-dos-grafos.md)  <br/>
+:bomb: [Banco de Dados](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/banco-de-dados/banco-de-dados.md) <br/>
+:bomb: [Inteligência Artificial](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/inteligencia-artificial/inteligencia-artificial.md) <br/>
 
-[Redes de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/redes-de-computadores/redes-de-computadores.md) <br/>
-[Sistemas Operacionais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-operacionais/sistemas-operacionais.md) <br/>
-[Linguagens Formais e Autômata](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/linguagens-formais-e-automata/linguagens-formais-e-automata.md) <br/>
-[Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/engenharia-de-software/engenharia-de-software.md) <br/>
+[Redes de Computadores](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/redes-de-computadores/redes-de-computadores.md) <br/>
+[Sistemas Operacionais](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/sistemas-operacionais/sistemas-operacionais.md) <br/>
+[Linguagens Formais e Autômata](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/linguagens-formais-e-automata/linguagens-formais-e-automata.md) <br/>
+[Engenharia de Software](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/engenharia-de-software/engenharia-de-software.md) <br/>
 
-[Sistemas Distribuidos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-distribuidos/sistemas-distribuidos.md) <br/>
-[Compiladores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/compiladores/compiladores.md) <br/>
-[Paradigmas de Programação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/paradigmas-de-programacao/paradigmas-de-programacao.md) <br/>
+[Sistemas Distribuidos](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/sistemas-distribuidos/sistemas-distribuidos.md) <br/>
+[Compiladores](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/compiladores/compiladores.md) <br/>
+[Paradigmas de Programação](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/paradigmas-de-programacao/paradigmas-de-programacao.md) <br/>
 
-:bomb: [Computação Gráfica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computacao-grafica/computacao-grafica.md) <br/>
-:bomb: [Programação Matemática](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-matematica/programacao-matematica.md) <br/>
+:bomb: [Computação Gráfica](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/computacao-grafica/computacao-grafica.md) <br/>
+:bomb: [Programação Matemática](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/programacao-matematica/programacao-matematica.md) <br/>
 
-[Segurança de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/seguranca-de-dados/seguranca-de-dados.md) <br/>
+[Segurança de Dados](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/obrigatorias/seguranca-de-dados/seguranca-de-dados.md) <br/>
 
 ---
 
 ### :computer: disciplinas limitadas do BCC
 
-:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/calculo-numerico/calculo-numerico.md)  <br/> 
-:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/intro-prog-jogos/intro-prog-jogos.md)  <br/>
-:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/lab-engenharia-software/lab-engenharia-software.md)  <br/>
-:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/lab-redes/lab-redes.md)  <br/>
-:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/processamento-sinais-neurais/processamento-sinais-neurais.md)  <br/>
-:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/programacao-paralela/programacao-paralela.md)  <br/>
-:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/programacao-segura/programacao-segura.md)  <br/>
-:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/sistemas-inteligentes/sistemas-inteligentes.md)  <br/>
-:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/tec-info-comunicacao-educacao/tec-info-comunicacao-educacao.md)  <br/>
+:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/calculo-numerico/calculo-numerico.md)  <br/> 
+:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/intro-prog-jogos/intro-prog-jogos.md)  <br/>
+:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/lab-engenharia-software/lab-engenharia-software.md)  <br/>
+:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/lab-redes/lab-redes.md)  <br/>
+:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/processamento-sinais-neurais/processamento-sinais-neurais.md)  <br/>
+:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/programacao-paralela/programacao-paralela.md)  <br/>
+:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/programacao-segura/programacao-segura.md)  <br/>
+:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/sistemas-inteligentes/sistemas-inteligentes.md)  <br/>
+:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/tec-info-comunicacao-educacao/tec-info-comunicacao-educacao.md)  <br/>
 
 ---
 
@@ -81,7 +81,7 @@ Para mudanças mais complexas, por favor, abra uma __issue__ para que possamos d
 
 ### :page_facing_up: licenciamento 
 
-Esse projeto tem licenciamento previsto pela The Unlicense - veja em [LICENSE.md](https://github.com/ufabc-students-bcc/disciplinas/blob/master/LICENSE) para detalhes. Divirtam-se. </br>
+Esse projeto tem licenciamento previsto pela The Unlicense - veja em [LICENSE.md](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/LICENSE) para detalhes. Divirtam-se. </br>
 
 
 
