@@ -1,9 +1,5 @@
 ## :pencil2: material de estudo pra te salvar das provas satânicas (ou não)
 
-<p align="center">
-![hackerman](https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
-<p/>
-
 <p align="center"
 
 [![GitHub forks](https://img.shields.io/github/forks/ufabc-students-bcc/disciplinas.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/network/)
@@ -13,6 +9,8 @@
 </p>
 
 ### :notebook: code of conduct + observações
+
+![hackerman](https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
 
 00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commit e inserções, tentem apenas manter o mínimo do senso de organização. Abraços, amamos vocês. Espero que isso lhe seja útil.
 01. Disciplinas marcadas com :bomb: estão sendo ofertadas no quadrimestre vigente. 
