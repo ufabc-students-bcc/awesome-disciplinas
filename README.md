@@ -22,7 +22,7 @@
 [Sistemas Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-digitais/sistemas-digitais.md) <br/>
 [Análise de Algoritmos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/analise-de-algoritmos/analise-de-algoritmos.md) <br/>
 [Programação Orientada à Objetos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-orientada-a-objetos/programacao-orientada-a-objetos.md) <br/>
-[Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
+:bomb: [Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
 [Computadores, Ética e Sociedade](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computadores-etica-sociedade/computadores-etica-sociedade.md) <br/>
 
 :bomb: [Arquitetura de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
@@ -47,8 +47,15 @@
 
 ### Disciplinas Limitadas do BCC
 
+:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/) 
+:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
 
-[]()
-[]()
-[]()
+
 
