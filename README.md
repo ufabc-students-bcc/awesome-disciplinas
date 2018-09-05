@@ -2,17 +2,13 @@
 
 <p align="center"
 
-[![GitHub forks](https://img.shields.io/github/forks/ufabc-students-bcc/disciplinas.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/network/)
-[![GitHub stars](https://img.shields.io/github/stars/ufabc-students-bcc/disciplinas.svg?style=social&label=Stars&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/stargazers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/ufabc-students-bcc/disciplinas.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/ufabc-students-bcc/disciplinas/watchers) 
+![hackerman](https://i.kym-cdn.com/photos/images/newsfeed/000/976/339/ded.png)
 >
 </p>
 
 ### :notebook: code of conduct + observações
 
-![hackerman](https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
-
-00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commit e inserções, tentem apenas manter o mínimo do senso de organização. Abraços, amamos vocês. Espero que isso lhe seja útil.
+00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commits e inserções, tentem apenas manter o mínimo do senso de organização. Abraços, amamos vocês. Espero que isso lhe seja útil.
 01. Disciplinas marcadas com :bomb: estão sendo ofertadas no quadrimestre vigente. 
 02. Não criei todos os repositórios para as disciplinas limitadas pq ia ser mt trampo, se alguém quiser se aventurar, boa sorte!
 03. Favor não inserir conteúdo com direitos autorais não permissivos. Sem pirataria no repositório. :-)
@@ -75,9 +71,9 @@
 
 ### :hearts: contribuindo
 
-Para reparar bugs, melhorias na documentação, traduções e demais mudanças simples: apenas faça um PR! Esse organização é de livre acesso para todos - bem como, futuros e antigos - discentes do Bacharelado em Ciência da Computação da Universidade Federal do ABC. Então, se você desejar commitar diretamente nesse repositório e não tiver acesso, basta abrir uma issue. <br/>
+Para reparar bugs, melhorias na documentação, traduções e demais mudanças simples: apenas faça um PR! Essa organização é de livre acesso para todos - bem como futuros e antigos - discentes do Bacharelado em Ciência da Computação da Universidade Federal do ABC. Então, se você desejar commitar diretamente nesse repositório e não tiver acesso, basta abrir uma issue. <br/>
 
-Docentes da UFABC, público externo ou spiders do google que estão lendo esse repositório: acaso julgar que você pode contribuir de alguma maneira para esse repositório, abra uma issue, por gentileza. <br/>
+Docentes da UFABC, público externo ou spiders do google que estão lendo esse repositório: acaso julgar que você pode contribuir de alguma maneira para esse repositório, apenas abra uma issue, por gentileza. <br/>
 
 Para mudanças mais complexas, por favor, abra uma __issue__ para que possamos discutir o design e a implementação.
 
