@@ -1,6 +1,6 @@
 ## :pencil2: material de estudo pra te salvar das provas satânicas (ou não)
 
-### Code of Conduct + Observações
+### :notebook: code of conduct + observações
 
 00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commit e inserções, tentem apenas manter o mínimo do senso de organização. Abraço, amamos vocês. Espero que isso lhe seja útil.
 01. Disciplinas marcadas com :bomb: estão sendo ofertadas no quadrimestre vigente. 
@@ -10,7 +10,9 @@
 05. Professores/as que julgarem esses materiais relevantes para as suas disciplinas. Fiquem à vontade para compartilhar o conteúdo desse repositório e/ou entrar em contato para eventuais "parcerias".
 06. Se, por ventura, algum docente ou discente se sentir ofendido ou verificar algo que não concorda - ex.: compartilharam seus slides sem a sua devida permissão e/ou não seguiram os devidos direitos autorais -, primeiramente, um perdão coletivo pela comunidade discente e fique à vontade para abrir uma issue ou entrar em contato via ufabc.students.bcc@gmail.com que a remoção será imediata.
 
-### Disciplinas Obrigatórias do BCC
+---
+
+### :computer: disciplinas obrigatórias do BCC
 
 :bomb: [Lógica Básica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/logica-basica/logica-basica.md) <br/>
 :bomb: [Programação Estruturada](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-estruturada/programacao-estruturada.md) <br/>
@@ -45,17 +47,37 @@
 
 [Segurança de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/seguranca-de-dados/seguranca-de-dados.md) <br/>
 
-### Disciplinas Limitadas do BCC
+---
 
-:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/> 
-:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
-:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+### :computer: disciplinas limitadas do BCC
+
+:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/calculo-numerico/calculo-numerico.md)  <br/> 
+:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/intro-prog-jogos/intro-prog-jogos.md)  <br/>
+:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/lab-engenharia-software/lab-engenharia-software.md)  <br/>
+:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/lab-redes/lab-redes.md)  <br/>
+:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/processamento-sinais-neurais/processamento-sinais-neurais.md)  <br/>
+:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/programacao-paralela/programacao-paralela.md)  <br/>
+:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/programacao-segura/programacao-segura.md)  <br/>
+:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/sistemas-inteligentes/sistemas-inteligentes.md)  <br/>
+:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/tec-info-comunicacao-educacao/tec-info-comunicacao-educacao.md)  <br/>
+
+---
+
+### :hearts: contribuindo
+
+Para reparar bugs, melhorias na documentação, traduções e demais mudanças simples: apenas faça um PR! Esse organização é de livre acesso para todos - bem como, futuros e antigos - discentes do Bacharelado em Ciência da Computação da Universidade Federal do ABC. Então, se você desejar commitar diretamente nesse repositório e não tiver acesso, basta abrir uma issue. <br/>
+
+Docentes da UFABC, público externo ou spiders do google que estão lendo esse repositório: acaso julgar que você pode contribuir de alguma maneira para esse repositório, abra uma issue, por gentileza. <br/>
+
+Para mudanças mais complexas, por favor, abra uma __issue__ para que possamos discutir o design e a implementação.
+
+---
+
+### :page_facing_up: licenciamento 
+
+Esse projeto tem licenciamento previsto pela The Unlicense - veja em [LICENSE.md](https://github.com/ufabc-students-bcc/disciplinas/blob/master/LICENSE) para detalhes. Divirtam-se. </br>
+
+
 
 
 
