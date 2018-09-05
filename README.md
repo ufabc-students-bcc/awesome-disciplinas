@@ -12,8 +12,8 @@
 
 ### Disciplinas Obrigatórias do BCC
 
-[Lógica Básica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/logica-basica/logica-basica.md) <br/>
-[Programação Estruturada](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-estruturada/programacao-estruturada.md) <br/>
+:bomb: [Lógica Básica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/logica-basica/logica-basica.md) <br/>
+:bomb: [Programação Estruturada](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-estruturada/programacao-estruturada.md) <br/>
 
 [Circuitos Digitais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/circuitos-digitais/circuitos-digitais.md)  <br/>
 [Algoritmos e Estruturas de Dados I](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-1/algoritmos-estrutura-dados-1.md) <br/>
@@ -25,11 +25,11 @@
 [Álgebra Linear](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algebra-linear/algebra-linear.md) <br/>
 [Computadores, Ética e Sociedade](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computadores-etica-sociedade/computadores-etica-sociedade.md) <br/>
 
-[Arquitetura de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
-[Algoritmos e Estruturas de Dados II](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-2/algoritmos-estrutura-dados-2.md) <br/>
-[Teoria dos Grafos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/teoria-dos-grafos/teoria-dos-grafos.md)  <br/>
-[Banco de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/banco-de-dados/banco-de-dados.md) <br/>
-[Inteligência Artificial](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/inteligencia-artificial/inteligencia-artificial.md) <br/>
+:bomb: [Arquitetura de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/arquitetura-de-computadores/arquitetura-de-computadores.md) <br/>
+:bomb: [Algoritmos e Estruturas de Dados II](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/algoritmos-estrutura-dados-2/algoritmos-estrutura-dados-2.md) <br/>
+:bomb: [Teoria dos Grafos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/teoria-dos-grafos/teoria-dos-grafos.md)  <br/>
+:bomb: [Banco de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/banco-de-dados/banco-de-dados.md) <br/>
+:bomb: [Inteligência Artificial](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/inteligencia-artificial/inteligencia-artificial.md) <br/>
 
 [Redes de Computadores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/redes-de-computadores/redes-de-computadores.md) <br/>
 [Sistemas Operacionais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/sistemas-operacionais/sistemas-operacionais.md) <br/>
@@ -40,8 +40,8 @@
 [Compiladores](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/compiladores/compiladores.md) <br/>
 [Paradigmas de Programação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/paradigmas-de-programacao/paradigmas-de-programacao.md) <br/>
 
-[Computação Gráfica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computacao-grafica/computacao-grafica.md) <br/>
-[Programação Matemática](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-matematica/programacao-matematica.md) <br/>
+:bomb: [Computação Gráfica](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/computacao-grafica/computacao-grafica.md) <br/>
+:bomb: [Programação Matemática](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/programacao-matematica/programacao-matematica.md) <br/>
 
 [Segurança de Dados](https://github.com/ufabc-students-bcc/disciplinas/blob/master/obrigatorias/seguranca-de-dados/seguranca-de-dados.md) <br/>
 
