@@ -47,15 +47,15 @@
 
 ### Disciplinas Limitadas do BCC
 
-:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/) 
-:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
-:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)
+:bomb: [Cálculo Numérico](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/> 
+:bomb: [Introdução à Programação de Jogos](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Laboratório de Engenharia de Software](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Laboratório de Redes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Processamento de Sinais Neurais](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Programação Paralela](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Programação Segura](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
+:bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/disciplinas/blob/master/limitadas/)  <br/>
 
 
 
