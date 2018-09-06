@@ -6,15 +6,20 @@
 >
 </p>
 
-### :notebook: code of conduct + observações
+### :notebook: guidelines - code of conduct + observações + como-ajudar
 
-00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio! Façam commits e inserções, tentem apenas manter o mínimo do senso de organização. Abraços, amamos vocês. Espero que isso lhe seja útil.
-01. Disciplinas marcadas com :bomb: estão sendo ofertadas no quadrimestre vigente. 
-02. Não criei todos os repositórios para as disciplinas limitadas pq ia ser mt trampo, se alguém quiser se aventurar, boa sorte!
-03. Favor não inserir conteúdo com direitos autorais não permissivos. Sem pirataria no repositório. :-)
-04. Antes de inserir resoluções de listas de exercícios, verifique se o/a seu/sua professor/a concorda com o compartilhamento.
-05. Professores/as que julgarem esses materiais relevantes para as suas disciplinas. Fiquem à vontade para compartilhar o conteúdo desse repositório e/ou entrar em contato para eventuais "parcerias".
-06. Se, por ventura, algum docente ou discente se sentir ofendido ou verificar algo que não concorda - ex.: compartilharam seus slides sem a sua devida permissão e/ou não seguiram os devidos direitos autorais -, primeiramente, um perdão coletivo pela comunidade discente e fique à vontade para abrir uma issue ou entrar em contato via ufabc.students.bcc@gmail.com que a remoção será imediata.
+00. Esse repositório é da comunidade para a comunidade. Não fiquem com receio de ajudar, qualquer problema abra uma issue! 
+01. Para contribuir, faça um fork desse repositório, crie uma nova branch para o que você deseja inserir e faça um Pull Request (eles serão muito bem vindos independente de quando e o que for), por favor, apenas evite jogar mil coisas por PR pq dificulta a revisão. Acaso você quiser contribuir com mais frequência e com mais independência, me dá um toque no telegram (@el-cardu) ou abra uma issue informando isso, que lhe dou admin na organização asap sem burocracia.
+02. Disciplinas marcadas com :bomb: estão sendo ofertadas no quadrimestre vigente. 
+03. Não criei todos os repositórios para todas as disciplinas limitadas pq ia ser mt trampo, se alguém quiser se aventurar, boa sorte!
+04. Favor não inserir conteúdo com direitos autorais não permissivos. Sem pirataria no repositório. :-)
+05. Antes de inserir resoluções de listas de exercícios, verifique se o/a seu/sua professor/a concorda com o compartilhamento.
+06. Professores/as que julgarem esses materiais relevantes para as suas disciplinas: fiquem à vontade para compartilhar ou utilizar o conteúdo desse repositório e/ou entrar em contato para eventuais "parcerias".
+07. Se, por ventura, algum docente ou discente se sentir ofendido, verificando algo que não concorda - ex.: compartilharam seus slides sem a sua devida permissão e/ou não seguiram os devidos direitos autorais -, primeiramente, um perdão coletivo pela comunidade discente do BCC e fique à vontade para abrir uma issue ou entrar em contato via ufabc.students.bcc@gmail.com que a remoção será imediata.
+08. Não fique com receio de ajudar por julgar "falta de conhecimentos técnicos", honestamente, boa parte do meu tempo, não sei o que tô fazendo da minha vida e isso que é o divertido! Qualquer coisa chama que ajudamos!
+09. "Ah, isso tá uma desgraça!". Ótimo, concordo! Entre em contato via issue, dm no twitter, whats, telegram, facebook ou sinal de fumaça com algum/a administrador/a para que possamos encontrar um workflow ótimo! Sua ajuda será muito bem-vinda! :)
+10. Se por um fim trágico, esse lindo repositório morrer, não hesite em tomar o controle.
+11. Abraços, amo vocês. Espero que isso lhe seja útil.
 
 ---
 
@@ -127,7 +132,7 @@
 
 Para reparar bugs, melhorias na documentação, traduções e demais mudanças simples: apenas faça um PR! Essa organização é de livre acesso para todos - bem como futuros e antigos - discentes do Bacharelado em Ciência da Computação da Universidade Federal do ABC. Então, se você desejar commitar diretamente nesse repositório e não tiver acesso, basta abrir uma issue. <br/>
 
-Docentes da UFABC, público externo ou spiders do google que estão lendo esse repositório: acaso julgar que você pode contribuir de alguma maneira para esse repositório, apenas abra uma issue, por gentileza. <br/>
+Docentes da UFABC, público externo ou spiders do google que estão lendo esse repositório: acaso julgar que você pode contribuir de alguma maneira para esse repositório, apenas abra uma issue, por gentileza, que podemos lhe inserir como colaborador externo. <br/>
 
 Para mudanças mais complexas, por favor, abra uma __issue__ para que possamos discutir o design e a implementação.
 
