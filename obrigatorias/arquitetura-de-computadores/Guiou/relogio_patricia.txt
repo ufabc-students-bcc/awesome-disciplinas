@@ -1,0 +1,157 @@
+
+;R0 DEFINIÇÃO DO REGISTRADOR UTILIZADO NA UNIDADE DE SEGUNDO
+;R1 DEFINIÇÃO DO REGISTRADOR UTILIZADO NA DEZENA DE SEGUNDO
+;R2 DEFINIÇÃO DO REGISTRADOR UTILIZADO NA UNIDADE DE MINUTO
+;R3 DEFINIÇÃO DO REGISTRADOR UTILIZADO NA DEZENA DE MINUTO
+;R4 DEFINIÇÃO DO REGISTRADOR UTILIZADO NA UNIDADE DE HORA
+;R5 DEFINIÇÃO DO REGISTRADOR UTILIZADO NA DEZENA DE HORA
+
+TEMPORIZADOR1	EQU TR0	
+TEMPORIZADOR1_H	EQU TH0	
+TEMPORIZADOR1_L	EQU TL0	
+TEMPORIZADOR1_F	EQU TF0	
+
+DISPLAY_1	EQU P2.0
+DISPLAY_2	EQU P2.1
+DISPLAY_3	EQU P2.2
+DISPLAY_4	EQU P2.3
+DISPLAY_5	EQU P2.4
+DISPLAY_6	EQU P2.5
+DISPLAY_7	EQU P2.6
+
+
+MOV TMOD, #51h						;CONFIGURACAO DO TMOD #00110011
+DECODER: DB 03Fh, 06h, 05Bh, 04Fh, 66h, 06Dh, 07Dh, 07h, 06Fh ;
+
+CONFIGURACAO PARA O DISPLAY DE SETE SEGMENTOS:																  
+;DIGITOS: 0,1,2,3,4,5,6,7,8,9,DESLIGADO		
+							
+MOV P2, #0h				;desabilita todos os displays
+SETB DISPLAY_1			;habilita somente o display da unidade de segundo
+MOV DPTR, #DECODER		;move as definicoes para configuracao dos valores do display para o DPTR
+
+JMP INICIO_RELOGIO		;inicia o relogio
+
+EXIBE_RELOGIO: JB DISPLAY_1, EXIBE_UNIDADE_SEGUNDO	;multiplexacao dos displays 
+			   JB DISPLAY_2, EXIBE_DEZENA_SEGUNDO	;
+			   JB DISPLAY_3, EXIBE_UNIDADE_MINUTO	;
+			   JB DISPLAY_4, EXIBE_DEZENA_MINUTO	;
+			   JB DISPLAY_5, EXIBE_UNIDADE_HORA		;
+			   JB DISPLAY_6, EXIBE_DEZENA_HORA	    ;
+EXIBE_UNIDADE_SEGUNDO:
+				CLR DISPLAY_1		;habilita o novo display
+				SETB DISPLAY_2		;a ser aceso
+				MOV A, R0			;checagem com a tabela de decodificacao
+				MOVC A, @A+DPTR		;SOMA A + DPTR OBTENDO UM ENDEREÇO DE 16 BITS NA MEMÓRIA DE PROGRAMA E CARREGA O ACUMULADOR COM ESTA MEMORIA
+				MOV P1, A			;coloca o dado no barramento do display
+				LCALL DELAY_10ms	;DEVERA PERMANECER 10ms ACESO
+				MOV P1, #0h			;APAGA RELOGIO																								
+				JMP EXIBE_RELOGIO
+EXIBE_DEZENA_SEGUNDO:
+				CLR DISPLAY_2		;habilita o novo display
+				SETB DISPLAY_3      ;a ser aceso
+				MOV A, R1           ;checagem com a tabela de decodificacao
+				MOVC A, @A+DPTR     ;SOMA A + DPTR OBTENDO UM ENDEREÇO DE 16 BITS NA MEMÓRIA DE PROGRAMA E CARREGA O ACUMULADOR COM ESTA MEMORIA
+				MOV P1, A           ;coloca o dado no barramento do display
+				LCALL DELAY_10ms	;DEVERA PERMANECER 10ms ACESO
+				MOV P1, #0h			;APAGA RELOGIO																								;APAGA RELOGIO
+				JMP EXIBE_RELOGIO   
+EXIBE_UNIDADE_MINUTO:
+				CLR DISPLAY_3		;habilita o novo display
+				SETB DISPLAY_4      ;a ser aceso
+				MOV A, R2           ;checagem com a tabela de decodificacao
+				MOVC A, @A+DPTR     ;SOMA A + DPTR OBTENDO UM ENDEREÇO DE 16 BITS NA MEMÓRIA DE PROGRAMA E CARREGA O ACUMULADOR COM ESTA MEMORIA
+				MOV P1, A           ;coloca o dado no barramento do display
+				LCALL DELAY_10ms	;DEVERA PERMANECER 10ms ACESO
+				MOV P1, #0h			;APAGA RELOGIO																								;APAGA RELOGIO
+				JMP EXIBE_RELOGIO				
+EXIBE_DEZENA_MINUTO:
+				CLR DISPLAY_4		;habilita o novo display
+				SETB DISPLAY_5      ;a ser aceso
+				MOV A, R3           ;checagem com a tabela de decodificacao
+				MOVC A, @A+DPTR     ;SOMA A + DPTR OBTENDO UM ENDEREÇO DE 16 BITS NA MEMÓRIA DE PROGRAMA E CARREGA O ACUMULADOR COM ESTA MEMORIA
+				MOV P1, A           ;coloca o dado no barramento do display
+				LCALL DELAY_10ms	;DEVERA PERMANECER 10ms ACESO
+				MOV P1, #0h			;APAGA RELOGIO																								;APAGA RELOGIO
+				JMP EXIBE_RELOGIO				
+EXIBE_UNIDADE_HORA:
+				CLR DISPLAY_5		;habilita o novo display
+				SETB DISPLAY_6      ;a ser aceso
+				MOV A, R4           ;checagem com a tabela de decodificacao
+				MOVC A, @A+DPTR     ;SOMA A + DPTR OBTENDO UM ENDEREÇO DE 16 BITS NA MEMÓRIA DE PROGRAMA E CARREGA O ACUMULADOR COM ESTA MEMORIA
+				MOV P1, A           ;coloca o dado no barramento do display
+				LCALL DELAY_10ms	;DEVERA PERMANECER 10ms ACESO
+				MOV P1, #0h			;APAGA RELOGIO																								;APAGA RELOGIO
+				JMP EXIBE_RELOGIO				
+EXIBE_DEZENA_HORA:
+				CLR DISPLAY_6		;habilita o novo display
+				SETB DISPLAY_1      ;a ser aceso
+				MOV A, R5           ;checagem com a tabela de decodificacao
+				MOVC A, @A+DPTR     ;SOMA A + DPTR OBTENDO UM ENDEREÇO DE 16 BITS NA MEMÓRIA DE PROGRAMA E CARREGA O ACUMULADOR COM ESTA MEMORIA
+				MOV P1, A           ;coloca o dado no barramento do display
+				LCALL DELAY_10ms	;DEVERA PERMANECER 10ms ACESO
+				MOV P1, #0h			;APAGA RELOGIO																								;APAGA RELOGIO
+				JMP INCREMENTA_UNIDADE_SEGUNDO
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+INICIO_RELOGIO: LCALL CLEAR_RELOGIO
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EXECUCAO_RELOGIO:  				
+				   JNB P0.7, ATUALIZAR_RELOGIO ;PRESET DO RELOGIO	   				   
+				   LCALL DELAY_1_SEGUNDO	   ;toda a execucao do relogio e baseada neste delay de 1 segundo			   
+				   JMP EXIBE_RELOGIO		   ;exibe o relogio no display
+CHECA_UNIDADE_SEGUNDO: 
+					   CJNE R0, #10, EXECUCAO_RELOGIO	;checa se a unidade de segundo e diferente de 10
+					   MOV R0, #0					   	;se for a execucao do relogio prossegue, caso contrario 
+					   JMP INCREMENTA_DEZENA_SEGUNDO	;zera a unidade de segundo e incrementa a dezena de segundo
+INCREMENTA_UNIDADE_SEGUNDO:
+					   INC R0							;incrementa a unidade de segundo
+					   JMP CHECA_24_HORAS				;checa se chegou 23h59m59s
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHECA_DEZENA_SEGUNDO:					   
+					CJNE R1, #6, EXECUCAO_RELOGIO		;checa se a dezena de segundo e diferente de 6
+					MOV R1, #0                          ;se for a execucao do relogio prossegue, caso contrario 
+					JMP INCREMENTA_UNIDADE_MINUTO       ;zera a dezena de segundo e incrementa a unidade de minuto
+INCREMENTA_DEZENA_SEGUNDO:                            
+					   INC R1							;incrementa a dezena de segundo
+					   JMP CHECA_DEZENA_SEGUNDO			;verifica o valor da dezena de segundo
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHECA_UNIDADE_MINUTO:					   
+					CJNE R2, #10, EXECUCAO_RELOGIO	;checa se a unidade de minuto e diferente de 10
+					MOV R2, #0                      ;se for a execucao do relogio prossegue, caso contrario 
+					JMP INCREMENTA_DEZENA_MINUTO    ;zera a unidade de segundo e incrementa a dezena de minuto
+INCREMENTA_UNIDADE_MINUTO:                        
+					   INC R2						;incrementa a unidade de minuto
+					   JMP CHECA_UNIDADE_MINUTO		;verifica o valor da unidade de minuto
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHECA_DEZENA_MINUTO:					   
+					CJNE R3, #6, EXECUCAO_RELOGIO	;checa se a dezena de minuto e diferente de 6
+					MOV R3, #0                      ;se for a execucao do relogio prossegue, caso contrario 
+					JMP INCREMENTA_UNIDADE_HORA     ;zera a unidade de segundo e incrementa a unidade de hora
+INCREMENTA_DEZENA_MINUTO:                         
+					   INC R3						;incrementa a dezena de minuto
+					   JMP CHECA_DEZENA_MINUTO		;verifica o valor da dezena de minuto
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHECA_UNIDADE_HORA:					   
+					CJNE R4, #10, EXECUCAO_RELOGIO	;checa se a unidade de hora e diferente de 10
+					MOV R4, #0                      ;se for a execucao do relogio prossegue, caso contrario 
+					JMP INCREMENTA_DEZENA_HORA      ;zera a unidade de hora e incrementa a dezena de hora
+INCREMENTA_UNIDADE_HORA:                          
+					   INC R4						;incrementa a unidade de hora
+					   JMP CHECA_UNIDADE_HORA		;verifica o valor da unidade de hora
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+INCREMENTA_DEZENA_HORA:
+					   INC R5						;incrementa a dezena de hora
+					   JMP EXECUCAO_RELOGIO			;reinicia a execucao do relogio
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHECA_24_HORAS: 									;rotina para checa se a hora do relogio chegou a 
+				CJNE R0, #9, CHECA_UNIDADE_SEGUNDO	;23h59m59s
+				CJNE R1, #5, CHECA_UNIDADE_SEGUNDO 	;caso chegue o relogio
+				CJNE R2, #9, CHECA_UNIDADE_SEGUNDO  ;sera reiniciado
+				CJNE R3, #5, CHECA_UNIDADE_SEGUNDO	;
+				CJNE R4, #3, CHECA_UNIDADE_SEGUNDO	;
+				CJNE R5, #2, CHECA_UNIDADE_SEGUNDO	;
+			    JMP INICIO_RELOGIO					;
+
+SAIR_DO_PROGRAMA: 					
+;TERMINA A EXECUCAO
+END
