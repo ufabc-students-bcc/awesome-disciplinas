@@ -1,0 +1,12 @@
+$ ./hash <ra1.txt
+Quantidade de chaves = 7
+Fator de Carga = 0.003433
+Maior comprimento das listas de colisões = 1
+Compartimentos sem chave = 2032
+
+$ ./hash <ra2.txt
+Quantidade de chaves = 10521
+Fator de Carga = 5.159882
+Maior comprimento das listas de colisões = 10
+Compartimentos sem chave = 3
+
