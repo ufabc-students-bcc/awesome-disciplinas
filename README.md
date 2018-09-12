@@ -126,12 +126,25 @@
 :bomb: [Sistemas Inteligentes](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/sistemas-inteligentes)  <br/>
 :bomb: [Tecnologias da Informação e Comunicação na Educação](https://github.com/ufabc-students-bcc/awesome-disciplinas/blob/master/limitadas/tec-info-comunicacao-educacao)  <br/>
 
+--- 
+
+### Grupos de Disciplinas no WhatsApp
+
+- [Banco de Dados](https://chat.whatsapp.com/4K8CBrPvnPi1hOaBtNHUTQ)
+- [Teoria dos Grafos](https://chat.whatsapp.com/9FPab3gSMTEFZi87crNKen)
+- [Lógica Básica](https://chat.whatsapp.com/3prnDMlYrI2I0kCSsx6Wvz)
+- [Programação Estruturada](https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
+- [Calculo Numérico - André Pierro](https://chat.whatsapp.com/2g80M4oZB4HJZrKNC4ox2c)
+
 ---
+
 ### Outros links úteis
+
 - [Planilha de contatos](https://docs.google.com/spreadsheets/d/1DxSTT8AJ7E0Iuu1IvOK1syOQj5Z5OmZ00TLOLaQcUnc/edit?usp=sharing): planilha contendo os contatos de linkedin, facebook, github e etc do pessoal da comp. Também tem as empresas onde as pessoas trabalham e os interesses, pra ficar mais fácil de filtrar quem vocês querem adicionar. É livre para não alunos também.
-- [Grupo no whats](https://chat.whatsapp.com/5JI0Bsi1mSWHL3nHntyChB) 
-- [Grupo no telegram](https://t.me/joinchat/CEkmAw0Fi8YibbJ3RPZvgA)
-- [Grupo no Facebook](https://www.facebook.com/groups/bccufabc)
+- [Grupo no WhatsApp do BCC](https://chat.whatsapp.com/5JI0Bsi1mSWHL3nHntyChB) 
+- [Grupo no Telegram do BCC](https://t.me/joinchat/CEkmAw0Fi8YibbJ3RPZvgA)
+- [Grupo no Facebook do BCC](https://www.facebook.com/groups/bccufabc)
+
 ---
 
 ### :hearts: contribuindo
