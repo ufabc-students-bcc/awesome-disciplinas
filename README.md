@@ -2,7 +2,7 @@
 
 <p align="center"
 
-![hackerman](https://i.kym-cdn.com/photos/images/newsfeed/000/976/339/ded.png)
+![hackerman](https://imgs.xkcd.com/comics/git.png)
 >
 </p>
 
@@ -133,7 +133,8 @@
 - [Banco de Dados](https://chat.whatsapp.com/4K8CBrPvnPi1hOaBtNHUTQ)
 - [Teoria dos Grafos](https://chat.whatsapp.com/9FPab3gSMTEFZi87crNKen)
 - [Lógica Básica](https://chat.whatsapp.com/3prnDMlYrI2I0kCSsx6Wvz)
-- [Programação Estruturada](https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
+- [Programação Estruturada](
+https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
 - [Calculo Numérico - André Pierro](https://chat.whatsapp.com/2g80M4oZB4HJZrKNC4ox2c)
 
 ---
