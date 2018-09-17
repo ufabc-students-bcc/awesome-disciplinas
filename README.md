@@ -1,4 +1,4 @@
-﻿## :pencil2: material de estudo pra te salvar das provas satânicas (ou não)
+﻿﻿## :pencil2: material de estudo pra te salvar das provas satânicas (ou não)
 
 <p align="center"
 
@@ -130,12 +130,17 @@
 
 ### Grupos de Disciplinas no WhatsApp
 
+to compilando as desgraças dos grupos dos whats das disciplinas obrig/limitada da comp pra n ficar 200 iguais pra msm disciplina, se tiver ou criar algum e n tiver aqui nessa lista, avisaê
+
+- [Programação Estruturada](https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
+- [Programação Estruturada - Pisani](https://chat.whatsapp.com/8nbuXKvJqCv6ML30cKoX1H)
+- [Lógica Básica](https://chat.whatsapp.com/3prnDMlYrI2I0kCSsx6Wvz)
+- [Inteligência Artificial](https://chat.whatsapp.com/invite/3KEmExWcxlxGTea5EM8UiF)
 - [Banco de Dados](https://chat.whatsapp.com/4K8CBrPvnPi1hOaBtNHUTQ)
 - [Teoria dos Grafos](https://chat.whatsapp.com/9FPab3gSMTEFZi87crNKen)
-- [Lógica Básica](https://chat.whatsapp.com/3prnDMlYrI2I0kCSsx6Wvz)
-- [Programação Estruturada](
-https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
 - [Calculo Numérico - André Pierro](https://chat.whatsapp.com/2g80M4oZB4HJZrKNC4ox2c)
+- [Calculo Numérico - André Fonseca](https://chat.whatsapp.com/2zMCIRHVFTE2m0mkFdll5N)
+- [Sistemas Inteligentes](https://chat.whatsapp.com/4oUfjnWuAiMISauYMLpCn2)
 
 ---
 
