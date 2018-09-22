@@ -1,8 +1,8 @@
-#Programação Funcional em Haskell
+# Programação Funcional em Haskell
 
 Curso de introdução a programação funcional em Haskell ministrado pelos professores Emilio Francesquini e Fabrício Olivetti em 2018.
 
-##Apresentação do curso
+## Apresentação do curso
 
  Você já sonhou em, após compilar um programa com sucesso, ele não apresentar bugs? Os seus sonhos se tornam realidade com o paradigma funcional! Esse curso irá ensinar como criar códigos expressivos e livre de bugs utilizando a linguagem Haskell.
 
@@ -10,5 +10,5 @@ Grandes empresas como Microsoft, Facebook, Target e diversas empresas do ramo fi
 
 Pré-requisito: gostar de programar! 
 
-##Informações úteis
+## Informações úteis
 - Site do curso: http://professor.ufabc.edu.br/~e.francesquini/haskell 
