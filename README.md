@@ -141,6 +141,7 @@ to compilando as desgraças dos grupos dos whats das disciplinas obrig/limitada 
 - [Calculo Numérico - André Pierro](https://chat.whatsapp.com/2g80M4oZB4HJZrKNC4ox2c)
 - [Calculo Numérico - André Fonseca](https://chat.whatsapp.com/2zMCIRHVFTE2m0mkFdll5N)
 - [Sistemas Inteligentes](https://chat.whatsapp.com/4oUfjnWuAiMISauYMLpCn2)
+- [Computação Gráfica](https://chat.whatsapp.com/7C4g15FFge5ITFyKz1EzYE)
 
 ---
 
