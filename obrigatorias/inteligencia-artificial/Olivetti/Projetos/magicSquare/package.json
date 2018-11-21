@@ -1,0 +1,20 @@
+{
+  "name": "magicsquare",
+  "version": "1.0.0",
+  "description": "Search to resolve the magic square problem.",
+  "main": "index.js",
+  "scripts": {
+    "main": "node --max-old-space-size=4512 index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bfs",
+    "dfs",
+    "csp"
+  ],
+  "author": "Alessandro Jean",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
