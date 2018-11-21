@@ -55,7 +55,7 @@ is the solution at the end of the algorithm.
 
 ## How to run it
 
-For run the code, first you need to have
+To run the code, you need to have
 [NodeJS] and [NPM] installed in your system.
 
 ```bash
