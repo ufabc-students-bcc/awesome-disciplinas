@@ -1,6 +1,7 @@
 # Magic Square
 
-By [Alessandro Jean](https://github.com/alessandrojean/IA-2018.3/).
+By [Alessandro Jean](https://github.com/alessandrojean/IA-2018.3/),
+RA 11070616.
 
 Breadth-first search, Depth-first search, A* and
 CSP Backtracking search to create a `n × n` magic
