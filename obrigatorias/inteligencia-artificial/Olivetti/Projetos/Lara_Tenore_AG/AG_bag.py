@@ -2,10 +2,10 @@
 #algoritmo genetico
 #problema da mochila usando livros com pesos aleatorios
 
-
 import copy
 import random
 
+#Global
 num_livros = 10
 tam_populacao = 20
 max_carga = 30
@@ -142,29 +142,23 @@ def substituicao():
 		populacao = copy.deepcopy(aux_populacao[:tam_populacao])
 		taxaPopAux = -1
 
-
+#INICIO
 ciclo = 0
 
 #CRIACAO DA POPULACAO INICIAL E SELECAO INICIAL
 atribuiPesos()
-
 criacaoPI()
 avaliacao()
 bestIndividuo()
 
 #INICIO DOS CRUZAMENTOS E MUTACOES
 while ciclo < num_ciclos:
-
 	for i in range(9):
 		cruzamentoSimples()
-
-
 		mutacao()
 		mutacao()
-
 		substituicao()
-
 		avaliacao()
 		bestIndividuo()
-
+		
 		ciclo+=1
