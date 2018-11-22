@@ -1,5 +1,7 @@
+#Lara Tenore Ferreira RA: 11030616
 #algoritmo genetico
 #problema da mochila usando livros com pesos aleatorios
+
 
 import copy
 import random
