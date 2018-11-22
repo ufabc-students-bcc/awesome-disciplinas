@@ -1,3 +1,6 @@
 [submodule "obrigatorias/inteligencia-artificial/Olivetti/Projetos/ricochetrobots_ia"]
 	path = obrigatorias/inteligencia-artificial/Olivetti/Projetos/ricochetrobots_ia
 	url = https://github.com/marcossuzuki/ricochetrobots_ia.git
+[submodule "obrigatorias/inteligencia-artificial/Olivetti/Projetos/nonogen"]
+	path = obrigatorias/inteligencia-artificial/Olivetti/Projetos/nonogen
+	url = https://github.com/BryanCruz/nonogen
