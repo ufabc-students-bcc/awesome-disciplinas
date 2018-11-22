@@ -162,3 +162,5 @@ while ciclo < num_ciclos:
 		bestIndividuo()
 		
 		ciclo+=1
+
+print("A melhor solucao encontrada pelo algoritmo é a ultima apresentada \n")
