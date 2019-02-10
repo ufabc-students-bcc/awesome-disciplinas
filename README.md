@@ -150,6 +150,8 @@ to compilando as desgraças dos grupos dos whats das disciplinas obrig/limitada 
 - [Algoritmos e Estruturas de Dados I](https://chat.whatsapp.com/CMwwDFSPd74CMKTWCXvdG8)
 - [Circuitos Digitais](https://chat.whatsapp.com/BMfSVz4oQpTHtmFRJVRw5x)
 - [Engenharia de Software](https://chat.whatsapp.com/EHHS6n5BUL6C7vov1fyKtB)
+- [Linguagens Formais e Autômatos](https://chat.whatsapp.com/IN1NxzOoiL42vOU0fE0QEB)
+- [Matemática Discreta](https://chat.whatsapp.com/JPLUixvbYp9Jj2EW0RlC9D)
 - [Redes de Computadores](https://chat.whatsapp.com/JYvrrClPDBYD09v8KC1l0q)
 - [Segurança de Dados](https://chat.whatsapp.com/IgtAjw2VIelEumfHfNvv7d)
 - [Sistemas Operacionais](https://chat.whatsapp.com/Kif1W6czXhfJiN5q4mCFav)
@@ -160,6 +162,8 @@ to compilando as desgraças dos grupos dos whats das disciplinas obrig/limitada 
 - [Programação Avançada para Dispositivos Móveis](https://chat.whatsapp.com/E8pXgXuC97U9Lmnyx9Ygue)
 - [Programação Paralela](https://chat.whatsapp.com/HfZitSmFzAC4SPdMw9CpGZ)
 - [Vida Artificial na Computação](https://chat.whatsapp.com/Dsa8YbWnTQlEWaQT22p1UY)
+- [Aprendizado de Máquina](https://chat.whatsapp.com/Hj2ekjnvxNH0an0EznqmmJ)
+- [Jogos Digitais: Aspectos Técnicos e Aplicações](https://chat.whatsapp.com/EzgPYKYoOC33J3OGkNRrkj)
 
 ---
 
