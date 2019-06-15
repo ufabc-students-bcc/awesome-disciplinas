@@ -165,6 +165,25 @@ to compilando as desgraças dos grupos dos whats das disciplinas obrig/limitada 
 - [Aprendizado de Máquina](https://chat.whatsapp.com/Hj2ekjnvxNH0an0EznqmmJ)
 - [Jogos Digitais: Aspectos Técnicos e Aplicações](https://chat.whatsapp.com/EzgPYKYoOC33J3OGkNRrkj)
 
+##### 2019.2 ([Lista original](https://gist.github.com/el-cardu/0ae5843b2aea59f0ab2b991f094d5faa#file-zapzap_comp_2019_2-md) por @bruAristimunha)
+
+- [Análise de Algoritmos](https://chat.whatsapp.com/C9BmU7G0mgP5NQzLFM2Tzc)
+- [Aprendizado de Máquina](https://chat.whatsapp.com/LVab9bXiKEHKlGvppG3Wtn)
+- [Compiladores](https://chat.whatsapp.com/Jin2wvKGuO6B4CkSv2ShFs)
+- [Computadores, Ética e Sociedade](https://chat.whatsapp.com/BusZowN1EcxFaaO1qYAyRk)
+- [Inteligência Artificial](https://chat.whatsapp.com/JzqbIysNIVf9JDpy4RYm7Z)
+- [Linguagens Formais e Automata](https://chat.whatsapp.com/I1aWh41oUWgHeuWDD2dS1A)
+- [Mineração de Dados](https://chat.whatsapp.com/IUKLWrRGaUeGfvzqtDQHzG)
+- [Métodos de Otimização](https://chat.whatsapp.com/EeI22BDm1o2KPnX1QE1sZn)
+- [Paradigmas de Programação](https://chat.whatsapp.com/HkKypKwu93K0sZuAK5fI1Y)
+- [Processamento de Linguagem Natural](https://chat.whatsapp.com/CQgjGtIZqAD7jQk119grDf)
+- [Programação Avançada para Dispositivos Móveis](https://chat.whatsapp.com/J1kKuxysidf7wIlGtxc1h5)
+- [Programação Orientada à Objetos](https://chat.whatsapp.com/KNdDwMBckL41cyteysDru3)
+- [Programação para Web](https://chat.whatsapp.com/LVRPBkOn8cg4mZyjAqvzPm)
+- [Sistemas Digitais](https://chat.whatsapp.com/FCT8giZFpG8FeXdX9ey2mO)
+- [Sistemas Distribuídos](https://chat.whatsapp.com/LFevqvCVFpGKpOYq1OkJaW)
+- [Tecnologias da Informação e Comunicação na Educação](https://chat.whatsapp.com/Ew312l1LTGo9VAIj8IPCMt)
+
 ---
 
 ### Outros links úteis
