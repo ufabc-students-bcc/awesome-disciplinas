@@ -132,39 +132,6 @@
 
 to compilando as desgraças dos grupos dos whats das disciplinas obrig/limitada da comp pra n ficar 200 iguais pra msm disciplina, se tiver ou criar algum e n tiver aqui nessa lista, avisaê
 
-##### 2018.3
-
-- [Programação Estruturada](https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
-- [Programação Estruturada - Pisani](https://chat.whatsapp.com/8nbuXKvJqCv6ML30cKoX1H)
-- [Lógica Básica](https://chat.whatsapp.com/3prnDMlYrI2I0kCSsx6Wvz)
-- [Inteligência Artificial](https://chat.whatsapp.com/invite/3KEmExWcxlxGTea5EM8UiF)
-- [Banco de Dados](https://chat.whatsapp.com/4K8CBrPvnPi1hOaBtNHUTQ)
-- [Teoria dos Grafos](https://chat.whatsapp.com/9FPab3gSMTEFZi87crNKen)
-- [Calculo Numérico - André Pierro](https://chat.whatsapp.com/2g80M4oZB4HJZrKNC4ox2c)
-- [Calculo Numérico - André Fonseca](https://chat.whatsapp.com/2zMCIRHVFTE2m0mkFdll5N)
-- [Sistemas Inteligentes](https://chat.whatsapp.com/4oUfjnWuAiMISauYMLpCn2)
-- [Computação Gráfica](https://chat.whatsapp.com/7C4g15FFge5ITFyKz1EzYE)
-
-##### 2019.1
-
-- [Algoritmos e Estruturas de Dados I](https://chat.whatsapp.com/CMwwDFSPd74CMKTWCXvdG8)
-- [Circuitos Digitais](https://chat.whatsapp.com/BMfSVz4oQpTHtmFRJVRw5x)
-- [Engenharia de Software](https://chat.whatsapp.com/EHHS6n5BUL6C7vov1fyKtB)
-- [Linguagens Formais e Autômatos](https://chat.whatsapp.com/IN1NxzOoiL42vOU0fE0QEB)
-- [Matemática Discreta](https://chat.whatsapp.com/JPLUixvbYp9Jj2EW0RlC9D)
-- [Redes de Computadores](https://chat.whatsapp.com/JYvrrClPDBYD09v8KC1l0q)
-- [Segurança de Dados](https://chat.whatsapp.com/IgtAjw2VIelEumfHfNvv7d)
-- [Sistemas Operacionais](https://chat.whatsapp.com/Kif1W6czXhfJiN5q4mCFav)
-- [Computação Evolutiva e Conexionista](https://chat.whatsapp.com/GQFox5TZgvd7QS1Dc84Bdb)
-- [Interação Humano-Computador](https://chat.whatsapp.com/LyURGh9n3SX88YHs0hrnKQ)
-- [Introdução à Programação de Jogos](https://chat.whatsapp.com/FNCQRPEqjrm0XnvtfQpb0s)
-- [Mineração de Dados](https://chat.whatsapp.com/GdnRtWuV2Zy4OtgBPAKdcj)
-- [Programação Avançada para Dispositivos Móveis](https://chat.whatsapp.com/E8pXgXuC97U9Lmnyx9Ygue)
-- [Programação Paralela](https://chat.whatsapp.com/HfZitSmFzAC4SPdMw9CpGZ)
-- [Vida Artificial na Computação](https://chat.whatsapp.com/Dsa8YbWnTQlEWaQT22p1UY)
-- [Aprendizado de Máquina](https://chat.whatsapp.com/Hj2ekjnvxNH0an0EznqmmJ)
-- [Jogos Digitais: Aspectos Técnicos e Aplicações](https://chat.whatsapp.com/EzgPYKYoOC33J3OGkNRrkj)
-
 ##### 2019.2 ([Lista original](https://gist.github.com/el-cardu/0ae5843b2aea59f0ab2b991f094d5faa#file-zapzap_comp_2019_2-md) por @bruAristimunha)
 
 - [Análise de Algoritmos](https://chat.whatsapp.com/C9BmU7G0mgP5NQzLFM2Tzc)
